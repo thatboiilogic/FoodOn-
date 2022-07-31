@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Foodon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="State">
+        <item>Bangkok</item>
+        <item>ChiangMai</item>
+        <item>ChiangRai</item>
+        <item>SamutPrakan</item>
+        <item>Trang</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Burrito</item>
+        <item>FriedRice</item>
+        <item>Tacos</item>
+        <item>Pizza</item>
+        <item>PastaCreamy</item>
+        <item>PastaMeat</item>
+        <item>PastaChicken</item>
+        <item>FishGrilled</item>
+        <item>EggSandwich</item>
+        <item>ChickenPie</item>
+        <item>Meatload</item>
+        <item>Brisket</item>
+        <item>Lasagna</item>
+        <item>Spaghetti</item>
+        <item>MashedPotatoes</item>
+        <item>GrilledCheese</item>
+        <item>MacAndCheese</item>
+        <item>Gobi Partha</item>
+        <item>Biryani</item>
+        <item>Rajma</item>
+        <item>Waffles</item>
+        <item>Pancakes</item>
+        <item>Roti</item>
+        <item>Salad</item>
+        <item>Breadsticks</item>
+        <item>Soup</item>
+        <item>BoneBrought</item>
+        <item>PigsBlanket</item>
+        <item>OnionRings</item>
+        <item>Shrimp</item>
+        <item>MixVegetable</item>
+        <item>Muffins</item>
+        <item>Rice</item>
+        <item>Burger</item>
+        <item>Sandwich</item>
+        <item>EggCurry</item>
+        <item>Fish</item>
+        <item>EggFried</item>
+        <item>GrilledChicken</item>
+        <item>ChickenBiryani</item>
+    </string-array>
+</resources>
